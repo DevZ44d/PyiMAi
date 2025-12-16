@@ -1,0 +1,2 @@
+[console_scripts]
+pyimai = pyimai.cil:console
