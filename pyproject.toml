@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "PyiMAi"
+version = "1.0.0"
+description = "PyiMAi is a lightweight AI-powered CLI tool that allows you to interact with an AI model directly from your terminal, with optional image support."
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+authors = [
+    { name = "AhMed", email = "alexcrow221@gmail.com" }
+]
+dependencies = []
+
+[project.scripts]
+pyimai = "pyimai.cli:console"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

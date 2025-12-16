@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+src/PyiMAi.egg-info/PKG-INFO
+src/PyiMAi.egg-info/SOURCES.txt
+src/PyiMAi.egg-info/dependency_links.txt
+src/PyiMAi.egg-info/entry_points.txt
+src/PyiMAi.egg-info/top_level.txt
+src/pyimai/Provides.py
+src/pyimai/__init__.py
+src/pyimai/cil.py
+src/pyimai/info.py
+src/pyimai/main.py
+src/pyimai/upload.py
