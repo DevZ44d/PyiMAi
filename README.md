@@ -1,5 +1,5 @@
 <p align="center">
-    <img align="center" width="300" src="https://github.com/user-attachments/assets/1805d349-d03a-4087-aeca-2ed57a1b133a" />
+    <img align="center" width="300" src="https://github.com/user-attachments/assets/d31fab0f-4d7e-46e8-adae-ed9270cf0a26" />
     <h3 align="center"></h3>
 </p>
 
@@ -176,4 +176,5 @@ pyimai -h
 
 ### 💬 Help & Support .
 - Follow updates via the **[Telegram Channel](https://t.me/Pycodz)**.
+
 - For general questions and help, join our **[Telegram chat](https://t.me/PyChTz)**.
